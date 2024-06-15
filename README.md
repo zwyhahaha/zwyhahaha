@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome! 👋
 
 <!--
 **zwyhahaha/zwyhahaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently an undergraduate student at Shanghai University of Finance and Economics.
+🌱 My research interest lies in optimization and online learning algotithms.
+📫 How to reach me: wanyuzhang1013@gmail.com
