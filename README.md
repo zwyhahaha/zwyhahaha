@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently an undergraduate student at Shanghai University of Finance and Economics.
-- 🌱 My research interest lies in optimization and online learning algotithms.
+- 🌱 My research interest lies in optimization and online learning algorithms.
 - 📫 How to reach me: wanyuzhang1013@gmail.com
