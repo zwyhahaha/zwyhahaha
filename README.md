@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently a senior student at Shanghai University of Finance and Economics.
-- 🌱 My research interest lies in mathematical optimization.
+- 🔭 I’m currently a PhD student at Stanford MS&E.
+- 🌱 My research interest lies in optimization.
 - 📫 You can contact me through wanyuzhang1013 AT gmail DOT com
